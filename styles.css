@@ -13,6 +13,10 @@ body {
     border-radius: 50%;
 }
 
+.nobull {
+    list-style-type: none;
+}
+
 .quote {
     font-size: 12pt;
     text-align: right;
