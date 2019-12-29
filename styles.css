@@ -2,23 +2,38 @@ body {
     background-color: #4ddbff
 }
 
-.section {
-    background-color: #fff;
-    padding: 15px;
-    margin-bottom: 10px;
-    border-radius: 10px;
-}
-
 .circular--square {
     border-radius: 50%;
+}
+
+.face {
+    transform: scale(0.4);
+    margin: 0 auto;
+    display: block;
+    margin-top: -35px;
+    margin-bottom: -25px;
+}
+
+.icon{ 
+    width:5%;
+    height:5%;
+    object-fit:cover;
 }
 
 .nobull {
     list-style-type: none;
 }
 
+
 .quote {
     font-size: 12pt;
     text-align: right;
     margin-top: 10px;
+}
+
+.section {
+    background-color: #fff;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 10px;
 }
