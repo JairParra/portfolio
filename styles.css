@@ -3,18 +3,18 @@ body {
 }
 
 .section {
-    background-color: #4ddbff;
+    background-color: #fff;
     padding: 15px;
     margin-bottom: 10px;
     border-radius: 10px;
 }
 
-.centerImage
-{
- text-align:center;
- display:block;
-}
-
 .circular--square {
     border-radius: 50%;
+}
+
+.quote {
+    font-size: 12pt;
+    text-align: right;
+    margin-top: 10px;
 }
