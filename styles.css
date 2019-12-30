@@ -53,6 +53,17 @@ progress {
     margin-right: 10%;
 }
 
+.table{ 
+    background: transparent;
+    color: white;
+    text-align: center;
+    float: center;
+}
+
+table.center {
+    margin-left:auto; 
+    margin-right:auto;
+  }
 
 
 /* ============================================================================================== 
@@ -130,7 +141,7 @@ header a, a:visited {
   right:0;
   bottom:0;
   width:100%;
-  height: 2400px; /*This part can extend the animation vertically*/
+  height: 3000px; /*This part can extend the animation vertically*/
   display:block;
 }
 
